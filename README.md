@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer
 
-Building web applications with React, Node.js, and MongoDB, with an interest in blockchain development.
+Building web applications, with an interest in blockchain development.
 
 [GitHub](https://github.com/a-namoura) · [LinkedIn](https://www.linkedin.com/in/abdallah-namoura/) · [Email](mailto:abdullahnamura@gmail.com)
 
@@ -50,7 +50,7 @@ A full-stack remittance application with wallet linking, send/request flows, tra
 
 **Stack:** React · Node.js · Express · MongoDB · Solidity · Hardhat · Tailwind CSS
 
-[Repository](https://github.com/a-namoura/remittance-system) · [Screenshots](https://github.com/a-namoura/remittance-system/tree/main/screenshots) · [Architecture](https://github.com/a-namoura/remittance-system#architecture)
+[Repository](https://github.com/a-namoura/remittance-system) · [Architecture](https://github.com/a-namoura/remittance-system#architecture)
 
 ### [React + Express Starter](https://github.com/a-namoura/my-react-node)
 
