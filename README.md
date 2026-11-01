@@ -2,69 +2,67 @@
 
 # Abdallah Al Namoura
 
-**Full-Stack Developer** · React / Node.js · Blockchain integration
+### Full-Stack Developer
 
-I work on web applications that connect user interfaces, APIs, databases, and smart contracts.
+Building web applications with React, Node.js, and MongoDB, with an interest in blockchain development.
 
-[LinkedIn](https://www.linkedin.com/in/abdallah-namoura/) · [Email](mailto:abdullahnamura@gmail.com)
+[GitHub](https://github.com/a-namoura) · [LinkedIn](https://www.linkedin.com/in/abdallah-namoura/) · [Email](mailto:abdullahnamura@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I enjoy building across the stack — from React interfaces to Express APIs and MongoDB models. My project work also covers Solidity contracts, transaction handling, and the tooling behind them.
+I work with frontend interfaces, backend APIs, databases, and Solidity smart contracts. I also have an interest in Linux, networking, and hardware.
 
-I'm interested in networking, Linux, and hands-on hardware projects alongside web development.
+---
 
-## Selected Work
+## Tech Stack & Skills
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi 3](https://img.shields.io/badge/Raspberry%20Pi%203-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![CPU-OS Simulator](https://img.shields.io/badge/CPU--OS%20Simulator-4B5563?style=for-the-badge) ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## Projects
 
 ### [Remittance System](https://github.com/a-namoura/remittance-system)
 
-**Full-stack application · Blockchain / testnet**
+A full-stack remittance application with wallet linking, send/request flows, transaction tracking, and smart contracts on a testnet.
 
-A remittance app with wallet connections, send/request flows, transaction history, and admin tools. The backend includes transaction reconciliation, and the Solidity contracts cover transfers and escrow.
+**Stack:** React · Node.js · Express · MongoDB · Solidity · Hardhat · Tailwind CSS
 
-`React` `Node.js` `Express` `MongoDB` `Solidity` `Hardhat`
+[Repository](https://github.com/a-namoura/remittance-system) · [Screenshots](https://github.com/a-namoura/remittance-system/tree/main/screenshots) · [Architecture](https://github.com/a-namoura/remittance-system#architecture)
 
-[Repository](https://github.com/a-namoura/remittance-system) · [Architecture](https://github.com/a-namoura/remittance-system#architecture) · [Contract](https://github.com/a-namoura/remittance-system/blob/main/contracts/contracts/Remittance.sol) · [Tests](https://github.com/a-namoura/remittance-system/tree/main/backend/test)
+### [React + Express Starter](https://github.com/a-namoura/my-react-node)
 
-<details>
-<summary><b>Another public repository</b></summary>
+A small React and Express starter with a greeting API and Docker configuration.
 
-<br>
+**Stack:** React · JavaScript · Express · Docker
 
-**[React + Express Starter](https://github.com/a-namoura/my-react-node)** — A small React frontend and Express API project with Docker configuration. Currently a starter, not a completed application.
-
-</details>
-
-## Technology
-
-**Core stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square)
-
-<details>
-<summary><b>More languages, tools & platforms</b></summary>
-
-| Area | Technologies |
-| --- | --- |
-| Web & mobile | JavaScript, HTML, CSS, Next.js, Tailwind CSS, Flutter, Dart |
-| Languages & data | Python, Java, PHP, C, R, Kotlin, MySQL, NumPy |
-| Systems & hardware | Git, Linux, Arduino, Raspberry Pi 3, Wireshark, CPU-OS Simulator |
-
-</details>
+---
 
 ## Contact
 
-**[Email](mailto:abdullahnamura@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/abdallah-namoura/)**
-
-[Instagram](https://www.instagram.com/abdallah_namoura/) · [Facebook](https://www.facebook.com/abdallah.alnamura.3/)
+- **Email:** [abdullahnamura@gmail.com](mailto:abdullahnamura@gmail.com)
+- **LinkedIn:** [abdallah-namoura](https://www.linkedin.com/in/abdallah-namoura/)
+- **Instagram:** [@abdallah_namoura](https://www.instagram.com/abdallah_namoura/)
+- **Facebook:** [abdallah.alnamura.3](https://www.facebook.com/abdallah.alnamura.3/)
