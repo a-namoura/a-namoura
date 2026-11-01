@@ -34,3 +34,23 @@ A selection of the languages, frameworks, and tools I work with:
 | **Tools & Platforms** | `Git` · `Docker` · `Linux` · `Arduino` |
 
 ---
+
+
+## 🚀 Featured Projects
+
+### 💸 [Remittance System](https://github.com/a-namoura/remittance-system)
+A full-stack remittance application featuring account onboarding, wallet connections, transfer tracking, and blockchain-based transfers.
+
+**Tech:** React · Node.js · Express · MongoDB · Solidity · Hardhat · Tailwind CSS
+
+### ⚛️ [my-react-node](https://github.com/a-namoura/my-react-node)
+A full-stack React and Express project with separate frontend and backend directories and Docker configuration.
+
+**Tech:** React · JavaScript · Node.js · Express · Docker
+
+### 🪪 [GitHub Profile Portfolio](https://github.com/a-namoura/a-namoura)
+The source repository for this GitHub profile README, showcasing my background, skills, and projects.
+
+**Tech:** Markdown · GitHub
+
+---
