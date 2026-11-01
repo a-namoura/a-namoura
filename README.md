@@ -6,7 +6,7 @@
 
 Building web applications, with an interest in blockchain development.
 
-[GitHub](https://github.com/a-namoura) · [LinkedIn](https://www.linkedin.com/in/abdallah-namoura/) · [Email](mailto:abdullahnamura@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdallah-namoura/) · [Email](mailto:abdullahnamura@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@ Building web applications, with an interest in blockchain development.
 
 ## About Me
 
-I work with frontend interfaces, backend APIs, databases, and Solidity smart contracts. I also have an interest in Linux, networking, and hardware.
+I work with frontend interfaces, backend APIs, databases and Solidity smart contracts. I also have an interest in Linux, networking and hardware.
 
 ---
 
@@ -46,7 +46,7 @@ I work with frontend interfaces, backend APIs, databases, and Solidity smart con
 
 ### [Remittance System](https://github.com/a-namoura/remittance-system)
 
-A full-stack remittance application with wallet linking, send/request flows, transaction tracking, and smart contracts on a testnet.
+A full-stack remittance application with wallet linking, send/request flows, transaction tracking and smart contracts on a testnet.
 
 **Stack:** React · Node.js · Express · MongoDB · Solidity · Hardhat · Tailwind CSS
 
