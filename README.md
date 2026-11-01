@@ -19,3 +19,18 @@ I'm a **Full-Stack Developer** interested in building complete web applications,
 - 🚀 **What you'll find here:** Projects, experiments, and things I'm learning as I build.
 
 ---
+
+
+## 🧰 Tech Stack & Skills
+
+A selection of the languages, frameworks, and tools I work with:
+
+| Area | Technologies |
+| --- | --- |
+| **Programming Languages** | `JavaScript` · `TypeScript` · `Python` · `Java` · `PHP` · `C` · `R` · `Solidity` · `Kotlin` |
+| **Frontend & Mobile** | `HTML` · `CSS` · `React` · `Next.js` · `Tailwind CSS` · `Flutter` |
+| **Backend** | `Node.js` · `Express.js` |
+| **Databases & Data** | `MongoDB` · `MySQL` · `NumPy` |
+| **Tools & Platforms** | `Git` · `Docker` · `Linux` · `Arduino` |
+
+---
