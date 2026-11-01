@@ -48,6 +48,11 @@ A full-stack React and Express project with separate frontend and backend direct
 
 **Tech:** React · JavaScript · Node.js · Express · Docker
 
+### 🏢 [DVA232 — HT24 Projects 6](https://github.com/DVA232/ht24-projects-6)
+A project repository associated with the DVA232 organization.
+
+*Note: Repository access may be restricted; project details are not yet verified.*
+
 ### 🪪 [GitHub Profile Portfolio](https://github.com/a-namoura/a-namoura)
 The source repository for this GitHub profile README, showcasing my background, skills, and projects.
 
