@@ -59,3 +59,12 @@ The source repository for this GitHub profile README, showcasing my background, 
 **Tech:** Markdown · GitHub
 
 ---
+
+## 📬 Connect With Me
+
+I'm always happy to connect, collaborate, and discuss ideas.
+
+- 💼 **LinkedIn:** [abdallah-namoura](https://www.linkedin.com/in/abdallah-namoura/)
+- 📧 **Email:** [abdullahnamura@gmail.com](mailto:abdullahnamura@gmail.com)
+- 📸 **Instagram:** [@abdallah_namoura](https://www.instagram.com/abdallah_namoura/)
+- 👥 **Facebook:** [Abdallah Al Namoura](https://www.facebook.com/abdallah.alnamura.3/)
